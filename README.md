@@ -1,2 +1,2 @@
-# PennyKeeper---Financial-Habit-Tracking-App
+# PennyKeeper | Financial-Habit-Tracking-App
 Financial Habit Tracking App
